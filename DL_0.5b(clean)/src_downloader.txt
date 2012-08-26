@@ -1,0 +1,6 @@
+"C:\\Users\\user\\Documents\\JCreator LE\\MyProjects\\BeegVideoDownloader\\BeegVideoDownloader0.5\\DL_0.5b(clean)\\BeegTool.java"
+"C:\\Users\\user\\Documents\\JCreator LE\\MyProjects\\BeegVideoDownloader\\BeegVideoDownloader0.5\\DL_0.5b(clean)\\DownloaderGUI.java"
+"C:\\Users\\user\\Documents\\JCreator LE\\MyProjects\\BeegVideoDownloader\\BeegVideoDownloader0.5\\DL_0.5b(clean)\\DownloadTask.java"
+"C:\\Users\\user\\Documents\\JCreator LE\\MyProjects\\BeegVideoDownloader\\BeegVideoDownloader0.5\\DL_0.5b(clean)\\Frame.java"
+"C:\\Users\\user\\Documents\\JCreator LE\\MyProjects\\BeegVideoDownloader\\BeegVideoDownloader0.5\\DL_0.5b(clean)\\SearchTask.java"
+"C:\\Users\\user\\Documents\\JCreator LE\\MyProjects\\BeegVideoDownloader\\BeegVideoDownloader0.5\\DL_0.5b(clean)\\UrlTool.java"
